@@ -52,59 +52,8 @@ const projects = [
  serverRepo: " https://github.com/AmenaGithub678/freelancer-server-side",
  
 },
-  {
-    id: "03",
-    title: "Builder",
-    image: "https://i.ibb.co.com/fzPQXrXQ/sample2.jpg",
-    description:
-      "Builder is a modern and responsive landing page designed for individuals or agencies offering high-quality web design services.",
-    features: [
-      "Responsive layout",
-      "Modern UI",
-      "Optimized performance",
-    ],
-    techStack: ["HTML", "CSS", "JavaScript"],
-    role: "Designed UI components and optimized performance.",
-    live: "https://amenagithub678.github.io/Builder-Landing-Page/",
-    clientRepo: "https://github.com/AmenaGithub678/Builder-Landing-Page",
-    serverRepo: "#",
-  },
-  {
-    id: "04",
-    title: "Foodie",
-    image: "https://i.ibb.co.com/9mGt8nGR/sample3.jpg",
-    description:
-      "Foodie is a fully responsive landing page designed for a modern food-related service or restaurant.",
-    features: [
-      "Responsive design",
-      "Bootstrap styling",
-      "Interactive UI",
-    ],
-    techStack: ["HTML", "CSS", "Bootstrap", "JavaScript"],
-    role: "Designed responsive layout and interactive features.",
-    live: "https://amenagithub678.github.io/Foodie-Website/",
-    clientRepo: "https://github.com/AmenaGithub678/Foodie-Website",
-    serverRepo: "#",
-  },
-  {
-    id: "05",
-    title: "Natures Platter",
-    image: "https://i.ibb.co.com/8gHwQpnT/Sample4.png",
-    description:
-      "Natures Platter is a clean, modern, and fully responsive landing page website created for showcasing organic, natural, or healthy food-related content. The design uses Tailwind CSS for fast and efficient styling along with subtle animations for a smooth user experience.",
-    features: [
-      "Smooth animations to enhance user experience",
-      "Clean and minimalistic UI using utility-first Tailwind CSS",
-      "Mobile-first approach",
-    ],
-    techStack: ["Html", "Taliwind-css", "JavaScript", "Jquery"],
-    role: "Beautiful hero section with call-to-action.",
-    live: "https://amenagithub678.github.io/nature-platter-as3/",
-    clientRepo: "https://github.com/AmenaGithub678/nature-platter-as3",
-    serverRepo: "#",
-  },
 {
-  id: "06",
+  id: "03",
   title: "TourMates",
   image: "https://i.ibb.co.com/Z1fxcQdr/image2.png",
   description:
@@ -134,9 +83,58 @@ const projects = [
   live: "https://tourist-management-proje-6c2d2.web.app/",
   clientRepo: "https://github.com/AmenaGithub678/travel-management-system",
   serverRepo: "https://github.com/AmenaGithub678/travel-management-server-side-system"
-}
-
-
+},
+{
+    id: "04",
+    title: "Builder",
+    image: "https://i.ibb.co.com/fzPQXrXQ/sample2.jpg",
+    description:
+      "Builder is a modern and responsive landing page designed for individuals or agencies offering high-quality web design services.",
+    features: [
+      "Responsive layout",
+      "Modern UI",
+      "Optimized performance",
+    ],
+    techStack: ["HTML", "CSS", "JavaScript"],
+    role: "Designed UI components and optimized performance.",
+    live: "https://amenagithub678.github.io/Builder-Landing-Page/",
+    clientRepo: "https://github.com/AmenaGithub678/Builder-Landing-Page",
+    serverRepo: "#",
+  },
+  {
+    id: "05",
+    title: "Foodie",
+    image: "https://i.ibb.co.com/9mGt8nGR/sample3.jpg",
+    description:
+      "Foodie is a fully responsive landing page designed for a modern food-related service or restaurant.",
+    features: [
+      "Responsive design",
+      "Bootstrap styling",
+      "Interactive UI",
+    ],
+    techStack: ["HTML", "CSS", "Bootstrap", "JavaScript"],
+    role: "Designed responsive layout and interactive features.",
+    live: "https://amenagithub678.github.io/Foodie-Website/",
+    clientRepo: "https://github.com/AmenaGithub678/Foodie-Website",
+    serverRepo: "#",
+  },
+  {
+    id: "06",
+    title: "Natures Platter",
+    image: "https://i.ibb.co.com/8gHwQpnT/Sample4.png",
+    description:
+      "Natures Platter is a clean, modern, and fully responsive landing page website created for showcasing organic, natural, or healthy food-related content. The design uses Tailwind CSS for fast and efficient styling along with subtle animations for a smooth user experience.",
+    features: [
+      "Smooth animations to enhance user experience",
+      "Clean and minimalistic UI using utility-first Tailwind CSS",
+      "Mobile-first approach",
+    ],
+    techStack: ["Html", "Taliwind-css", "JavaScript", "Jquery"],
+    role: "Beautiful hero section with call-to-action.",
+    live: "https://amenagithub678.github.io/nature-platter-as3/",
+    clientRepo: "https://github.com/AmenaGithub678/nature-platter-as3",
+    serverRepo: "#",
+  },
 
 //   {
 //     id: "06",
